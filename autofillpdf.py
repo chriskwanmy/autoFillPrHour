@@ -24,7 +24,7 @@ def fillDate(xxx):
         pyautogui.press('tab')
 
 def speak():
-    text = "Japanese Village Calgary (2006) Ltd."
+    text = "xxxxxx Ltd."
     time.sleep(2)
 
     for i in range(64):
